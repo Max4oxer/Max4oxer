@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Max4oxer
-- 👀 I’m interested in programming&music&morecreative
+- 👀 I’m interested in programming&music&creativity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
